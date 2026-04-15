@@ -45,6 +45,12 @@
 7. **Return object**
    - return `combinedObject`
 
+**Project Maintenance**
+
+- Version control: use Git branches and focused commits so updates can be reviewed and reverted safely.
+- Regular updates and reviews: re-run `npm test` and check lab instructions against the implementation whenever the exercise changes.
+- Documentation repository: use `README.md`, `CONTRIBUTING.md`, and `docs/README.md` as the central reference points for the lab, examples, and maintenance workflow.
+
 
 
 
